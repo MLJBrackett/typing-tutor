@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-public class Task_1 {
+public class TypingTutor {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Typing Tutor - Michael Brackett");
 
